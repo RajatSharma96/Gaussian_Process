@@ -1,2 +1,2 @@
 # Gaussain_Process
-This Repository contain's Training and Test Data Sets and Gaussian Process Classification and Regression ipynb code files.
+This Repository contain's Gaussian Process Classification and Regression ipynb code files along with the Train and Test data.
